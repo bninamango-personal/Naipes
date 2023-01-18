@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.33130.400
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Naipes", "Naipes\Naipes.csproj", "{662A6221-B3F8-4919-8E7D-B60B0DD3B45A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{662A6221-B3F8-4919-8E7D-B60B0DD3B45A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{662A6221-B3F8-4919-8E7D-B60B0DD3B45A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{662A6221-B3F8-4919-8E7D-B60B0DD3B45A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{662A6221-B3F8-4919-8E7D-B60B0DD3B45A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {2F61DB9D-B436-492E-8629-1563BDF4CB72}
+	EndGlobalSection
+EndGlobal
